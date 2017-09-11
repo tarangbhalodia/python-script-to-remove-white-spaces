@@ -1,4 +1,4 @@
-#Python Script to remove white spaces
+# Python Script to remove white spaces
 
 ## Description
 As a developer, many times we may run into trouble due to whitespaces. Leading whitespaces are easier to identify, but trailing whitespaces can get you in huge trouble. Consider below example of *cfg* file:
@@ -12,7 +12,7 @@ From above cfg file, we can clearly identify leading whitespace in *property2* d
 
 This script comes in rescue for such unusual faults.
 
-##Getting Started
+## Getting Started
 
 * consider directory **/etc/config** having all the config files having all the config files, create a new file: **script.py** in config directory, and paste below code snippet
 ```python
@@ -56,6 +56,6 @@ for file in files:
 * run `script.py`
 * executing above command will remove all the white spaces, and you will get the desired output
 
-##Questions ??
+## Questions ??
 
 Reach out to author @ [Tarang Bhalodia - LinkedIn](https://www.linkedin.com/in/tarang-bhalodia-48870494/)
